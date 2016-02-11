@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  11 FEB 2016 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  11 FEB 2016 16:41
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1187,7 +1187,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 {C:/Users/Allan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 (fixos/02_FolhaRosto.tex
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 
  []
 
@@ -1195,23 +1195,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \imprimirfolhaderosto*{}
+l.36 \imprimirfolhaderosto*{}
                               [1
 
 
 
 
 ]) (fixos/0C_Sumario.tex (Principal.toc)
-[2]) (editaveis/10_Introducao.tex [3
+[2]) (editaveis/10_Introducao.tex
+Overfull \hbox (12.9185pt too wide) in paragraph at lines 13--14
+[]\T1/ptm/m/n/12 No mundo em que vi-ve-mos atu-al-mente, com o de-sen-vol-vi-me
+nto tec-no-ló-gico e os \T1/ptm/m/it/12 smartpho-
+ []
+
+[3
 
 ] [4
 
-]) (editaveis/11_QuadroTeorico.tex
-[5
+]) (editaveis/11_QuadroTeorico.tex [5
 
 ]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 6.
- ("C:\Users\Allan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+
+("C:\Users\Allan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Underfull \hbox (badness 10000) in paragraph at lines 3--7
@@ -1266,7 +1272,7 @@ Here is how much of TeX's memory you used:
  17223 multiletter control sequences out of 15000+200000
  32226 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,340b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,444b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -1275,7 +1281,7 @@ nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 ype1/urw/times/utmb8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (9 pages, 87588 bytes).
+Output written on Principal.pdf (9 pages, 90127 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
