@@ -1,0 +1,18 @@
+Um exemplo simples de modularização é o sistema Android, que não precisa ser reiniciado quando recebe a instalação de um novo aplicativo.
+
+Livro de modularização e design patters em java e OSGi:
+Java Application Architecture - Modularity Patterns with Examples Using OSGi
+Robert C. Martin Series
+
+
+
+https://www.osgi.org/
+
+
+
+Equinox - Apache Felix -> Rodar OSGi
+
+
+
+
+	

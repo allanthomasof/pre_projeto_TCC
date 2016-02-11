@@ -1,0 +1,12 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[Alves 1995]{alves1995quarto}
+\abntrefinfo{Alves}{ALVES}{1995}
+{ALVES, R. \emph{O quarto do mist{\'e}rio}. [S.l.]: Papirus, Speculum, 1995.}
+
+\end{thebibliography}
