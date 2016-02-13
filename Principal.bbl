@@ -9,4 +9,10 @@
 \abntrefinfo{Alves}{ALVES}{1995}
 {ALVES, R. \emph{O quarto do mist{\'e}rio}. [S.l.]: Papirus, Speculum, 1995.}
 
+\bibitem[IONIC 2016]{ionicdesc}
+\abntrefinfo{IONIC}{IONIC}{2016}
+{IONIC. \emph{\textbf{}}: \textbf{IONIC Framework Overview.} 2016.
+Dispon{\'\i}vel em: \url{http://http://ionicframework.com/docs/overview/}.
+  Acesso em: 13 de Fevereiro de 2016.}
+
 \end{thebibliography}

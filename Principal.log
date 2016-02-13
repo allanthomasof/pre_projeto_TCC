@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  11 FEB 2016 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  13 FEB 2016 11:38
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1201,18 +1201,22 @@ l.36 \imprimirfolhaderosto*{}
 
 
 
-]) (fixos/0C_Sumario.tex (Principal.toc)
-[2]) (editaveis/10_Introducao.tex
-Overfull \hbox (12.9185pt too wide) in paragraph at lines 13--14
-[]\T1/ptm/m/n/12 No mundo em que vi-ve-mos atu-al-mente, com o de-sen-vol-vi-me
-nto tec-no-ló-gico e os \T1/ptm/m/it/12 smartpho-
+]) (editaveis/0B_Siglas.tex [2
+
+])
+(fixos/0C_Sumario.tex (Principal.toc) [3
+
+]) (editaveis/10_Introducao.tex
+Overfull \hbox (9.7745pt too wide) in paragraph at lines 13--14
+[]\T1/ptm/m/n/12 No mundo em que vi-ve-mos atu-al-mente com o de-sen-vol-vi-men
+to tec-no-ló-gico e os \T1/ptm/m/it/12 smartpho-
  []
 
-[3
+[4
 
-] [4
+] [5
 
-]) (editaveis/11_QuadroTeorico.tex [5
+]) (editaveis/11_QuadroTeorico.tex [6
 
 ]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 6.
@@ -1230,17 +1234,19 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
-) (editaveis/12_QuadroMetodologico.tex [6
+) (editaveis/12_QuadroMetodologico.tex [7
 
-]) (Principal.bbl [7
+]) (Principal.bbl [8
 
 ]
 bibitemlist
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 14.
 )
 No file Principal.ind.
 
 AED: lastpage setting LastPage
-[8
+[9
 
 ]
 
@@ -1266,13 +1272,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 14083 strings out of 493634
- 209974 string characters out of 3135239
- 340932 words of memory out of 3000000
- 17223 multiletter control sequences out of 15000+200000
- 32226 words of font info for 40 fonts, out of 3000000 for 9000
+ 14102 strings out of 493634
+ 210254 string characters out of 3135239
+ 341073 words of memory out of 3000000
+ 17233 multiletter control sequences out of 15000+200000
+ 33898 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,444b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,442b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -1281,9 +1287,9 @@ nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 ype1/urw/times/utmb8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (9 pages, 90127 bytes).
+Output written on Principal.pdf (10 pages, 98831 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
