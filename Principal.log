@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  13 FEB 2016 11:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  13 FEB 2016 12:30
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1214,7 +1214,15 @@ to tec-no-ló-gico e os \T1/ptm/m/it/12 smartpho-
 
 [4
 
-] [5
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
+
+("C:\Users\Allan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+[5
 
 ]) (editaveis/11_QuadroTeorico.tex [6
 
@@ -1228,12 +1236,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 9.
-("C:\Users\Allan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 ) (editaveis/12_QuadroMetodologico.tex [7
 
 ]) (Principal.bbl [8
@@ -1272,13 +1274,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 14102 strings out of 493634
- 210254 string characters out of 3135239
+ 14103 strings out of 493634
+ 210266 string characters out of 3135239
  341073 words of memory out of 3000000
- 17233 multiletter control sequences out of 15000+200000
+ 17234 multiletter control sequences out of 15000+200000
  33898 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,442b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,443b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -1287,7 +1289,7 @@ nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 ype1/urw/times/utmb8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (10 pages, 98831 bytes).
+Output written on Principal.pdf (10 pages, 100320 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
