@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 FEB 2016 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 FEB 2016 17:48
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1235,8 +1235,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [7
 
-] [8])
-(editaveis/12_QuadroMetodologico.tex [9]) (Principal.bbl [10
+] [8]
+Overfull \hbox (0.82272pt too wide) in paragraph at lines 27--28
+\T1/ptm/m/n/12 em três par-tes dis-tin-tas e mo-du-la-res: o mo-delo(\T1/ptm/m/
+it/12 model\T1/ptm/m/n/12 ), a vi-são(\T1/ptm/m/it/12 view\T1/ptm/m/n/12 ) e o 
+con-tro-la-dor(\T1/ptm/m/it/12 controller\T1/ptm/m/n/12 ).
+ []
+
+) (editaveis/12_QuadroMetodologico.tex [9]) (Principal.bbl [10
 
 ]
 bibitemlist
@@ -1272,22 +1278,23 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 14150 strings out of 493634
- 210904 string characters out of 3135239
- 343941 words of memory out of 3000000
- 17257 multiletter control sequences out of 15000+200000
- 55379 words of font info for 57 fonts, out of 3000000 for 9000
+ 14162 strings out of 493634
+ 211235 string characters out of 3135239
+ 344496 words of memory out of 3000000
+ 17265 multiletter control sequences out of 15000+200000
+ 56475 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,611b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,677b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /urw/times/utmb8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (12 pages, 99919 bytes).
+ype1/urw/times/utmbi8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Principal.pdf (12 pages, 111938 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
