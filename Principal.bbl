@@ -5,14 +5,21 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.5 }
 
-\bibitem[Alves 1995]{alves1995quarto}
-\abntrefinfo{Alves}{ALVES}{1995}
-{ALVES, R. \emph{O quarto do mist{\'e}rio}. [S.l.]: Papirus, Speculum, 1995.}
-
 \bibitem[IONIC 2016]{ionicdesc}
 \abntrefinfo{IONIC}{IONIC}{2016}
 {IONIC. \emph{\textbf{}}: \textbf{IONIC Framework Overview.} 2016.
 Dispon{\'\i}vel em: \url{http://http://ionicframework.com/docs/overview/}.
   Acesso em: 13 de Fevereiro de 2016.}
+
+\bibitem[Lie e Bos 2005]{lie2005cascading}
+\abntrefinfo{Lie e Bos}{LIE; BOS}{2005}
+{LIE, H.~W.; BOS, B. \emph{Cascading Style Sheets: Designing for the Web,
+  Portable Documents}. [S.l.]: Addison-Wesley Professional, 2005.}
+
+\bibitem[Silva 2011]{silva2011css3}
+\abntrefinfo{Silva}{SILVA}{2011}
+{SILVA, M.~S. \emph{CSS3: desenvolva aplicações web profissionais com uso dos
+  poderosos recursos de estilização das CSS3.} [S.l.]: Novatec Editora,
+  2011.}
 
 \end{thebibliography}
