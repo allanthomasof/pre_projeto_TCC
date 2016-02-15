@@ -5,21 +5,44 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.5 }
 
+\bibitem[Apache 2016]{cordovadesc}
+\abntrefinfo{Apache}{APACHE}{2016}
+{APACHE, S.~F. \emph{\textbf{}}: \textbf{Apache Cordova Framework Overview.}
+  2016.
+Dispon{\'\i}vel em:
+  \url{https://cordova.apache.org/docs/en/6.0.0/guide/overview/}. Acesso em: 15
+  de Fevereiro de 2016.}
+
+\bibitem[Flanagan 2006]{flanagan2006javascript}
+\abntrefinfo{Flanagan}{FLANAGAN}{2006}
+{FLANAGAN, D. \emph{JavaScript: the definitive guide}. [S.l.]: " O'Reilly
+  Media, Inc.", 2006.}
+
 \bibitem[IONIC 2016]{ionicdesc}
 \abntrefinfo{IONIC}{IONIC}{2016}
 {IONIC. \emph{\textbf{}}: \textbf{IONIC Framework Overview.} 2016.
-Dispon{\'\i}vel em: \url{http://http://ionicframework.com/docs/overview/}.
-  Acesso em: 13 de Fevereiro de 2016.}
+Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
+  13 de Fevereiro de 2016.}
 
 \bibitem[Lie e Bos 2005]{lie2005cascading}
 \abntrefinfo{Lie e Bos}{LIE; BOS}{2005}
 {LIE, H.~W.; BOS, B. \emph{Cascading Style Sheets: Designing for the Web,
   Portable Documents}. [S.l.]: Addison-Wesley Professional, 2005.}
 
+\bibitem[Silva 2010]{silva2010javascript}
+\abntrefinfo{Silva}{SILVA}{2010}
+{SILVA, M.~S. Javascript: guia do programador.
+\emph{São Paulo: Novatec}, 2010.}
+
 \bibitem[Silva 2011]{silva2011css3}
 \abntrefinfo{Silva}{SILVA}{2011}
 {SILVA, M.~S. \emph{CSS3: desenvolva aplicações web profissionais com uso dos
   poderosos recursos de estilização das CSS3.} [S.l.]: Novatec Editora,
   2011.}
+
+\bibitem[Wilken 2015]{ionicinaction}
+\abntrefinfo{Wilken}{WILKEN}{2015}
+{WILKEN, J. \emph{Ionic In Action: Hybrid mobile apps with Ionic and
+  AngularJS.} [S.l.]: Manning Publications, 2015.}
 
 \end{thebibliography}
