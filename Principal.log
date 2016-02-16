@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 FEB 2016 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 FEB 2016 23:02
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1215,34 +1215,34 @@ to tec-no-ló-gico e os \T1/ptm/m/it/12 smartpho-
 [4
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 31.
 
 ("C:\Users\Allan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 [5
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 51.
+(Font)              <10> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 51.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 42.
 ) (editaveis/11_QuadroTeorico.tex [6
 
 ] [7
 
 ] [8]
-Overfull \hbox (0.82272pt too wide) in paragraph at lines 27--28
+Overfull \hbox (0.82272pt too wide) in paragraph at lines 26--27
 \T1/ptm/m/n/12 em três par-tes dis-tin-tas e mo-du-la-res: o mo-delo(\T1/ptm/m/
 it/12 model\T1/ptm/m/n/12 ), a vi-são(\T1/ptm/m/it/12 view\T1/ptm/m/n/12 ) e o 
 con-tro-la-dor(\T1/ptm/m/it/12 controller\T1/ptm/m/n/12 ).
  []
 
-) (editaveis/12_QuadroMetodologico.tex [9]) (Principal.bbl [10
+) (editaveis/12_QuadroMetodologico.tex [9] [10]) (Principal.bbl [11
 
 ]
 bibitemlist
@@ -1252,7 +1252,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 No file Principal.ind.
 
 AED: lastpage setting LastPage
-[11
+[12
 
 ]
 
@@ -1278,13 +1278,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 14162 strings out of 493634
- 211235 string characters out of 3135239
+ 14163 strings out of 493634
+ 211242 string characters out of 3135239
  344496 words of memory out of 3000000
  17265 multiletter control sequences out of 15000+200000
  56475 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,677b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,1025b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
@@ -1292,9 +1292,9 @@ nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 ype1/urw/times/utmbi8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (12 pages, 111938 bytes).
+Output written on Principal.pdf (13 pages, 113264 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
