@@ -7,15 +7,13 @@
 
 \bibitem[AngularJS 2016]{angularjsdoc}
 \abntrefinfo{AngularJS}{ANGULARJS}{2016}
-{ANGULARJS. \emph{\textbf{AngularJS Documentation}}: \textbf{What Is Angular?}
-  2016.
+{ANGULARJS. : \textbf{AngularJS Documentation:} what is angular? 2016.
 Dispon{\'\i}vel em: \url{https://docs.angularjs.org/guide/introduction}. Acesso
   em: 15 de Fevereiro de 2016.}
 
 \bibitem[Apache 2016]{cordovadesc}
 \abntrefinfo{Apache}{APACHE}{2016}
-{APACHE, S.~F. \emph{\textbf{Cordova Documentation}}: \textbf{Apache Cordova
-  Framework Overview.} 2016.
+{APACHE, S.~F. : \textbf{Cordova Documentation}. 2016.
 Dispon{\'\i}vel em:
   \url{https://cordova.apache.org/docs/en/6.0.0/guide/overview/}. Acesso em: 15
   de Fevereiro de 2016.}
@@ -37,8 +35,7 @@ Dispon{\'\i}vel em:
 
 \bibitem[IONIC 2016]{ionicdesc}
 \abntrefinfo{IONIC}{IONIC}{2016}
-{IONIC. \emph{\textbf{Ionic Documentation}}: \textbf{IONIC Framework Overview.}
-  2016.
+{IONIC. \emph{\textbf{}}: \textbf{IONIC Documentation.} 2016.
 Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
   13 de Fevereiro de 2016.}
 
@@ -49,7 +46,7 @@ Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
 
 \bibitem[Silva 2010]{silva2010javascript}
 \abntrefinfo{Silva}{SILVA}{2010}
-{SILVA, M.~S. \textbf{JavaScript: guia do programador.}
+{SILVA, M.~S. \textbf{JavaScript:} guia do programador.
 \emph{São Paulo: Novatec}, 2010.}
 
 \bibitem[Silva 2011]{silva2011css3}
