@@ -1,4 +1,7 @@
-nuapatex
+Aplicação Híbrida para a CPA usando IONIC
 ========
 
-Template LaTeX para a confecção do TCC
+Pré projeto de pesquisa do trabalho de conclusão de curso.
+
+Sistemas de Informação
+UNIVÁS 2016
