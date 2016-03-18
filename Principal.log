@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  14 MAR 2016 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  18 MAR 2016 14:19
 entering extended mode
 **./Principal.tex
 (Principal.tex
@@ -1230,15 +1230,15 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 
 ] [6
 
-] [7]) (Principal.bbl [8]
+] [7] [8] [9]) (Principal.bbl [10]
 bibitemlist
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 38.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 44.
 )
 No file Principal.ind.
 
 AED: lastpage setting LastPage
-[9
+[11
 
 ]
 
@@ -1264,22 +1264,22 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 14132 strings out of 493634
- 210886 string characters out of 3135239
- 343630 words of memory out of 3000000
- 17253 multiletter control sequences out of 15000+200000
+ 14169 strings out of 493634
+ 211513 string characters out of 3135239
+ 346298 words of memory out of 3000000
+ 17275 multiletter control sequences out of 15000+200000
  55379 words of font info for 57 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 46i,11n,40p,1026b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,1026b,478s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /urw/times/utmb8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmr8a.pfb><C:/Users/Allan/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (10 pages, 96108 bytes).
+Output written on Principal.pdf (12 pages, 107374 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 250 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

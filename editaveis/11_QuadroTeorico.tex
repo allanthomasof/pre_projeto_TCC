@@ -27,8 +27,26 @@
 	\par De acordo com \citeonline{green2013angularjs}, com a evolução das tecnologias web, as aplicações foram se tornando maiores e mais robustas, isso acarretou em um aumento da complexidade para os seus administradores. Desenvolver utilizando Javascript/JQuery não estava gerando desempenho suficiente e a manutenção de código à longo prazo estava prejudicada. O AngularJS surgiu para atender essas necessidades que surgiram, com ele muitas tecnologias acabaram por ser dispensáveis ou pouco utilizadas.
 	\par O AngularJS utiliza como modelo de arquitetura o padrão MVC, que divide o sistema em três partes distintas e modulares: o modelo (\textit{model}), a visão (\textit{view}) e o controlador (\textit{controller}). O modelo corresponde aos dados, visão é a interface gráfica do aplicativo com o usuário e o controlador corresponde à lógica de negócios. Cada uma dessas partes separa o código em grupos, o que proporciona vantagens como o dimensionamento e a organização de tarefas, onde cada uma faz somente o que é designado, além disso o código se torna reutilizável e de fácil manutenção. 
 	
-
-%\section{PHP}
+\section{PHP}
+	\par O PHP\footnote{\textit{Personal Home Page}} é uma linguagem \textit{open source}, que em tradução livre, significa código aberto, ou seja, qualquer um pode contribuir para seus aprimoramentos. De acordo com \citeonline{phpdoc}, o que o difere do Javascript, por exemplo, é que o PHP é executado no lado do servidor, o que faz com que o código seja processado por um sistema dedicado especialmente para essa função, e não na máquina do usuário. Desta forma, o navegador recebe apenas os resultados do processamento, o que é indispensável quando se é necessário ter sigilo e segurança com as informações.
+	\par Segundo \citeonline{niederauer2004desenvolvendo}, o PHP é uma das linguagens de programação mais conhecidas e utilizadas mundialmente. Sua função, é principalmente trazer interações e conteúdos dinâmicos para páginas web, em que apenas o HTML não é suficiente. Um site de notícias, por exemplo, só possui atualizações em tempo real por causa do PHP ou uma linguagem semelhante, com a função de recuperar informações de um banco de dados e transmiti-las para o usuário.
+	\par Para que seja possível a comunicação entre uma aplicação móvel e um servidor de banco de dados através do PHP, é necessário um serviço web realizando esse intermédio. Para essa função será utilizado o \textit{Slim Framework}, segundo \citeonline{slimdoc}, o \textit{Slim Framework} é uma ferramenta que possibilita a criação de APIs\footnote{\textit{Application Programming Interface}} REST\footnote{\textit{Representational State Transfer}} de maneira sucinta e poderosa através do protocolo HTTP\footnote{\textit{Hypertext Transfer Protocol}}.
+	
+\section{REST}
+	\par Segundo \citeonline{saudate2014rest}, o REST criado por Roy Fielding, nada mais é que um estilo de desenvolvimento de \textit{web services}, em que a tecnologia trabalha com base no protocolo HTTP e seus respectivos métodos, realizando chamadas através de URL's\footnote{\textit{Uniform Resource Locator}}. 
+	\par A URL deve ser única por recurso, ou seja, para cada função que se deseja ter, é necessário uma URL diferente, pois é ela quem define o procedimento que será feito e qual será a interação com o lado do cliente. Em conjunto com a URL, é necessário trabalhar com os métodos HTTP, pois são eles quem a API interpreta para saber o que deverá ser feito. Na versão corrente do HTTP, 1.1, estão disponíveis oito principais métodos, são eles:
+	\begin{itemize}
+	 	\item GET
+	 	\item POST
+	 	\item PUT
+	 	\item DELETE
+	 	\item OPTIONS
+	 	\item HEAD
+	 	\item TRACE
+	   	\item CONNECT
+	\end{itemize}
+	\par REST trabalha com dois principais formatos de envio e retorno de informações, que são o XML\footnote{\textit{eXtensible Markup Language}} e o JSON\footnote{\textit{JavaScript Object Notation}}. Ambos os formatos possuem a mesma proposta, porém algumas diferenças, principalmente na implementação. No projeto será usado o formato JSON, por conta de sua performance, menor complexidade, tamanho reduzido quando comparado com o XML, além de ser muito usado atualmente.
+	\par A grande vantagem do uso das REST API's é a possibilidade de comunicação de dados entre domínios distintos, justamente a situação de uma aplicação \textit{mobile}, diferente do que acontece nos websites por exemplo, onde ambos estão na mesma rede e se comunicam diretamente sem a necessidade de um \textit{web service}.
 
 %\section{MySQL}
 

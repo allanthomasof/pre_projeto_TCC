@@ -26,7 +26,13 @@ Dispon{\'\i}vel em:
 \bibitem[Flanagan 2006]{flanagan2006javascript}
 \abntrefinfo{Flanagan}{FLANAGAN}{2006}
 {FLANAGAN, D. : \textbf{JavaScript:} the definitive guide. Sebastopol: O'Reilly
-  Media, Inc., 2006.}
+  Media, Inc, 2006.}
+
+\bibitem[Framework 2016]{slimdoc}
+\abntrefinfo{Framework}{FRAMEWORK}{2016}
+{FRAMEWORK, S. : \textbf{Slim Framework Documentation}. 2016.
+Dispon{\'\i}vel em: \url{http://www.slimframework.com/docs/}. Acesso em: 16 de
+  Março de 2016.}
 
 \bibitem[Green e Seshadri 2014]{green2013angularjs}
 \abntrefinfo{Green e Seshadri}{GREEN; SESHADRI}{2014}
@@ -49,10 +55,26 @@ Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
 {LIE, H.~W.; BOS, B. : \textbf{Cascading Style Sheets:} designing for the web,
   portable documents. Boston: Addison-Wesley Professional, 2005.}
 
+\bibitem[Niederauer 2004]{niederauer2004desenvolvendo}
+\abntrefinfo{Niederauer}{NIEDERAUER}{2004}
+{NIEDERAUER, J. : \textbf{Desenvolvendo websites com PHP.} São Paulo: Novatec
+  Editora Ltda, 2004.}
+
+\bibitem[PHP 2016]{phpdoc}
+\abntrefinfo{PHP}{PHP}{2016}
+{PHP. : \textbf{PHP Documentation:} o que é o php? 2016.
+Dispon{\'\i}vel em: \url{http://php.net/manual/pt\_BR/intro-whatis.php}. Acesso
+  em: 16 de Março de 2016.}
+
+\bibitem[Saudate 2014]{saudate2014rest}
+\abntrefinfo{Saudate}{SAUDATE}{2014}
+{SAUDATE, A. : \textbf{REST: }construa api's inteligentes de maneira simples.
+  São Paulo: Editora Casa do Código, 2014.}
+
 \bibitem[Silva 2010]{silva2010javascript}
 \abntrefinfo{Silva}{SILVA}{2010}
 {SILVA, M.~S. \textbf{JavaScript:} guia do programador.
-\emph{São Paulo: Novatec}, 2010.}
+São Paulo: Novatec Editora Ltda, 2010.}
 
 \bibitem[Silva 2011]{silva2011css3}
 \abntrefinfo{Silva}{SILVA}{2011}
