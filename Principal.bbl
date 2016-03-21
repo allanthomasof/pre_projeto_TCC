@@ -45,6 +45,11 @@ Dispon{\'\i}vel em: \url{http://www.slimframework.com/docs/}. Acesso em: 16 de
 Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
   13 de Fevereiro de 2016.}
 
+\bibitem[Jobstraibizer 2010]{mysql2010jobstraibizer}
+\abntrefinfo{Jobstraibizer}{JOBSTRAIBIZER}{2010}
+{JOBSTRAIBIZER, F. : \textbf{Criação de bancos de dados com MySQL.} São
+  Paulo: Universo dos Livros Editora Ltda, 2010.}
+
 \bibitem[Khanna e Harlington 2016]{khanna2016getting}
 \abntrefinfo{Khanna e Harlington}{KHANNA; HARLINGTON}{2016}
 {KHANNA, R.; HARLINGTON, M. : \textbf{Getting Started with Ionic.} Birmingham:
@@ -59,6 +64,11 @@ Dispon{\'\i}vel em: \url{http://ionicframework.com/docs/overview/}. Acesso em:
 \abntrefinfo{Niederauer}{NIEDERAUER}{2004}
 {NIEDERAUER, J. : \textbf{Desenvolvendo websites com PHP.} São Paulo: Novatec
   Editora Ltda, 2004.}
+
+\bibitem[Niederauer 2005]{niederauer2005integrando}
+\abntrefinfo{Niederauer}{NIEDERAUER}{2005}
+{NIEDERAUER, J. : \textbf{Integrando PHP 5 com MySQL.} São Paulo: Novatec
+  Editora Ltda, 2005.}
 
 \bibitem[PHP 2016]{phpdoc}
 \abntrefinfo{PHP}{PHP}{2016}
