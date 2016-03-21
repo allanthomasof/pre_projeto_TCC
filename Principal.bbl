@@ -23,6 +23,11 @@ Dispon{\'\i}vel em:
 {BRANAS, R. : \textbf{AngularJS Essentials}. Birmingham: Packt Publishing Ltd,
   2014.}
 
+\bibitem[Eis e Ferreira 2012]{eis2012html5}
+\abntrefinfo{Eis e Ferreira}{EIS; FERREIRA}{2012}
+{EIS, D.; FERREIRA, E. : \textbf{HTML5 e CSS3} com farinha e pimenta. São
+  Paulo: Tableless, 2012.}
+
 \bibitem[Flanagan 2006]{flanagan2006javascript}
 \abntrefinfo{Flanagan}{FLANAGAN}{2006}
 {FLANAGAN, D. : \textbf{JavaScript:} the definitive guide. Sebastopol: O'Reilly
@@ -91,6 +96,13 @@ São Paulo: Novatec Editora Ltda, 2010.}
 {SILVA, M.~S. : \textbf{CSS3:} desenvolva aplicações web profissionais com
   uso dos poderosos recursos de estilização das css3. São Paulo: Novatec
   Editora Ltda, 2011.}
+
+\bibitem[Webber, Parastatidis e Robinson 2010]{webber2010rest}
+\abntrefinfo{Webber, Parastatidis e Robinson}{WEBBER; PARASTATIDIS;
+  ROBINSON}{2010}
+{WEBBER, J.; PARASTATIDIS, S.; ROBINSON, I. : \textbf{REST in practice:
+  }hypermedia and systems architecture. Sebastopol: O'Reilly Media, Inc.,
+  2010.}
 
 \bibitem[Wilken 2015]{ionicinaction}
 \abntrefinfo{Wilken}{WILKEN}{2015}
